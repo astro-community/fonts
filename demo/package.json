@@ -1,0 +1,15 @@
+{
+  "name": "@astropub/fonts-demo",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "astro dev",
+    "build": "astro build",
+    "serve": "astro preview"
+  },
+  "devDependencies": {
+    "@astropub/fonts": "0.1.0",
+    "astro": "latest"
+  }
+}
